@@ -27,6 +27,7 @@ No `pip install` is needed. Games and uploaded media are saved locally in `data/
 - Multiple navigable slides for every question and answer, each with its own text and media
 - Click-to-reveal spoiler text created by selecting text in Edit mode
 - Responsive editing and play modes
+- Professional dark editing workspace with category grouping, clue status badges and autosave feedback
 - Persistent scores and used-clue state
 - Correct/incorrect scoring, active contestant selection and board reset
 - Penalize multiple wrong answers while keeping the current clue open
